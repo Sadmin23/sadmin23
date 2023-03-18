@@ -1,9 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">&lt; Hello, I'm Sadmin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" > ! /></h1>
-
-<h2 align="center">Welcome to my GitHub profile</h2>  
-
+<h1 align="center">&lt;Hi, I'm Sadmin<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" >,<br/> Welcome to my GitHub Profile!/></h1>
 
 <div align="left">
 
