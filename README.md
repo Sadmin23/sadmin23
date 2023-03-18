@@ -59,7 +59,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sadmin23&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&align="center")<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sadmin23&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadmin23&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br /> 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sadmin23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
